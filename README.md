@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 # 💫 About Me:
-I am currently learning computer vision.<br>I am currently working on a Book Locator using Computer Vision techniques on book spines.<br>I am open to collaborate on micro SaaS products
+I am currently learning computer vision.<br>I am currently working on a Book Locator using Computer Vision techniques on book spines.<br>I am open to collaborating on micro SaaS products.
 
 
 ## Portfolio:
